@@ -152,8 +152,8 @@ HeroData =
 			},
 			ForceCommon = false,
 			RareChance = 0.10,
-			EpicChance = 0.05,
-			LegendaryChance = 0.12,
+			EpicChance = 0.9,
+			LegendaryChance = 1,
 			ReplaceChance = 0.1,
 		},
 		HermesData =
